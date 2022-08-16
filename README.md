@@ -23,13 +23,13 @@ for polar codes under AWGN channel. The implemented parts include
 These parts are implemented by python 3 and matlab. The speed is quite acceptable for research propose. Please have fun with it !
 
 # Requirement
-os 
-PIL
-numpy
-math
-csv
-matplotlib.pyplot
-porespy
+os /
+PIL /
+numpy /
+math /
+csv /
+matplotlib.pyplot /
+porespy /
 scipy
 
 
